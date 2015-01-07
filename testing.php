@@ -1,6 +1,8 @@
 <?php
 
-echo "This version for testing";
+echo "This ultimate version for testing";
+
+// This will now be merged with the master version...
 
 ?>
 
