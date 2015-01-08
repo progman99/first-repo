@@ -1,5 +1,5 @@
 <?php
 
-echo "This is page 3";
+echo "This is page NUMBER 3";
 
 ?>
